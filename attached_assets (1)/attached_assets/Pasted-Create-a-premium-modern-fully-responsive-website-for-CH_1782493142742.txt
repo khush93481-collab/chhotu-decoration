@@ -1,0 +1,202 @@
+Create a premium, modern, fully responsive website for **CHHOTU DECORATION** using HTML, CSS, JavaScript, React, or any modern framework.
+
+## Brand & Theme
+
+* Primary Colors: Black (#000000) and Luxury Gold (#D4AF37)
+* Elegant, premium, luxurious design
+* Mobile-first responsive layout
+* Smooth scrolling and animations
+* Fast loading and SEO optimized
+
+## Homepage Hero Section
+
+Display:
+
+# CHHOTU DECORATION
+
+### Tagline:
+
+"Turning Every Celebration into a Beautiful Memory"
+
+### Subheading:
+
+Professional Decoration Services for Weddings, Birthdays, Anniversaries, Engagements, Baby Showers, Corporate Events, and Special Celebrations.
+
+Add:
+
+* Large premium background slider
+* Call Now button
+* WhatsApp button
+* Explore Gallery button
+
+## Gallery Section
+
+Create separate image categories:
+
+* Wedding Decoration
+* Anniversary Decoration
+* Birthday Decoration
+* Engagement Decoration
+* Balloon Decoration
+* Stage Decoration
+* Festival Decoration
+* Event Decoration
+* Other Decorations
+
+Each category should have its own responsive gallery grid with hover effects and image lightbox.
+
+## Services Section
+
+Display beautiful service cards for:
+
+* Wedding Decoration
+* Birthday Decoration
+* Anniversary Decoration
+* Engagement Decoration
+* Balloon Decoration
+* Stage Decoration
+* Event Decoration
+* Customized Decoration
+
+## Customer Attraction Section
+
+Display premium marketing text:
+
+✨ Where Dreams Meet Decorations
+
+✨ Creating Magical Moments You'll Never Forget
+
+✨ Your Celebration, Our Creativity
+
+✨ Every Event Deserves a Grand Decoration
+
+✨ Transforming Ordinary Spaces into Extraordinary Experiences
+
+✨ We Don't Just Decorate Events, We Create Memories
+
+## Why Choose Us
+
+* Professional Team
+* Affordable Packages
+* Customized Designs
+* Timely Service
+* Premium Quality
+* Customer Satisfaction
+
+## Testimonials Section
+
+Create attractive testimonial cards with ratings and reviews.
+
+## Contact Information
+
+Business Name:
+CHHOTU DECORATION
+
+Address:
+Suriya Vivekanand Chowk, Suriya, Jharkhand, India
+
+Phone Numbers:
+6264187216
+8591612090
+
+Email:
+[chhotudecoration@gmail.com](mailto:chhotudecoration@gmail.com)
+
+## Interactive Contact Features
+
+Phone numbers must be clickable:
+
+tel:6264187216
+
+tel:8591612090
+
+Email must be clickable:
+
+mailto:chhotudecoration@gmail.com
+
+WhatsApp buttons must open WhatsApp directly:
+
+https://wa.me/916264187216
+
+https://wa.me/918591612090
+
+Add floating:
+
+* WhatsApp Button
+* Call Button
+
+Both visible on mobile and desktop.
+
+## Contact Form
+
+Fields:
+
+* Name
+* Phone Number
+* Email
+* Event Type
+* Message
+
+Form should be responsive and modern.
+
+## Google Map
+
+Embed a Google Map showing:
+Suriya Vivekanand Chowk, Suriya, Jharkhand, India
+
+## Navigation Bar
+
+Menu:
+
+* Home
+* Gallery
+* Services
+* About
+* Testimonials
+* Contact
+
+Sticky navbar with smooth scrolling.
+
+## Footer
+
+Display:
+
+© 2026 Chhotu Decoration. All Rights Reserved.
+
+Designed & Developed by WEB POCKET
+
+IMPORTANT:
+
+Make the text "WEB POCKET" fully clickable.
+
+When any visitor clicks "WEB POCKET", redirect them to:
+
+https://your-web-pocket-website-link.com
+
+Open the website in a new browser tab.
+
+Add hover animation on WEB POCKET text.
+
+Display WEB POCKET in:
+
+* Footer
+* Bottom Right Corner
+* About Section
+
+The WEB POCKET branding should look professional and premium.
+
+## Extra Features
+
+* Image Lightbox
+* Scroll Animations
+* Gold Gradient Buttons
+* Premium Hover Effects
+* Mobile Responsive Navigation Menu
+* Social Media Icons
+* Smooth Page Transitions
+* Professional Typography
+* Luxury Black and Gold Styling
+* SEO Meta Tags
+* Optimized for Mobile, Tablet, and Desktop
+
+The final website should look premium, luxurious, trustworthy, and capable of converting visitors into customers.

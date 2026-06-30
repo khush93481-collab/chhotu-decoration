@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Chhotu Decoration"
+version = "1.0.0"
+id = "artifacts/chhotu-decoration"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24604
+
+[services.development]
+run = "pnpm --filter @workspace/chhotu-decoration run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/chhotu-decoration", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/chhotu-decoration/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24604"
+BASE_PATH = "/"
