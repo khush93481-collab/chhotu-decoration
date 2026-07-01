@@ -1,1 +1,1 @@
-{"buildCommand":"vite build","outputDirectory":"dist","installCommand":"pnpm install","framework":"vite","rootDirectory":"artifacts (1)/artifacts/chhotu-decoration"}
+{"buildCommand":"vite build","outputDirectory":"dist","installCommand":"pnpm install","framework":"vite"}
